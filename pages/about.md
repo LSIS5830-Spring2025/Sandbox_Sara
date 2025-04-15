@@ -1,5 +1,5 @@
 ---
-title: About
+title: Sara's Spring 2025 Sandbox Collection
 layout: about
 permalink: /about.html
 # include CollectionBuilder info at bottom
