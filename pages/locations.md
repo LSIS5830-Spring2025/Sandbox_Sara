@@ -1,5 +1,6 @@
 ---
 title: Locations
+<Locations> Moscow, Idaho</Locations>
 layout: cloud
 permalink: /locations.html
 # Default locations page is configured in "_data/theme.yml"
