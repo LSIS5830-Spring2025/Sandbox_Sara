@@ -5,6 +5,7 @@ date,Date Created,
 description,Description,
 subject,Subjects,true
 location,Location
+<Location> Moscow, Idaho</Location> 
 latitude,Latitude
 longitude,Longitude
 source,Source
